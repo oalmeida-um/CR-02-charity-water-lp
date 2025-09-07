@@ -45,7 +45,7 @@ section {
 .hero {
   position: relative; /* Needed for overlay */
   /* Set a background image that covers the whole section */
-  background-image: url('https://cdn2.dropmarkusercontent.com/52043/5612ebcaaabcbbf4ea8fc1f5c98e57ab626fe4246f0088ec63ec72c1d88863b7/Nepal_2022_CG-0658.jpg?Expires=1757281316&Signature=Lxb58Jud3Yfe4qmCjsd3AnH16tnJFWkbD7UX0cu3oxTKgD4OQaQK2f1ZggEHnbLuIRCOdm0PCZc9Ft95O5apccWGYOdGCatRDtbd-Y5PxquHcUT-5sACeZt2Op8DDcCV7H6wCM49rv3uWYBNYD4pyyKON9GociAkcqqb~BG0cZuCZmX2e9iZt-ehCx-6ZC71VD0JPIF5KN2QIF4KUsRi51EOYW5em7HEUqUxb5EBRqYksmvK~lpqTIr57dBtl7diKx5X-meDEJcxKu9vnAkucp~l49KYlPOnq~hzbcja7zfUNxkkyDKCgIPXE8dErDEpc146qm49LZP63UuJzfeMrQ__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ');
+  background-image: url('Nepal_2022_CG-0658.jpg');
   background-size: cover;      /* Make the image cover the whole area */
   background-position: center; /* Center the image */
   background-repeat: no-repeat;
