@@ -45,7 +45,7 @@ section {
 .hero {
   position: relative; /* Needed for overlay */
   /* Set a background image that covers the whole section */
-  background-image: url('https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1500&q=80');
+  background-image: url('https://cdn2.dropmarkusercontent.com/52043/5612ebcaaabcbbf4ea8fc1f5c98e57ab626fe4246f0088ec63ec72c1d88863b7/Nepal_2022_CG-0658.jpg?Expires=1757281316&Signature=Lxb58Jud3Yfe4qmCjsd3AnH16tnJFWkbD7UX0cu3oxTKgD4OQaQK2f1ZggEHnbLuIRCOdm0PCZc9Ft95O5apccWGYOdGCatRDtbd-Y5PxquHcUT-5sACeZt2Op8DDcCV7H6wCM49rv3uWYBNYD4pyyKON9GociAkcqqb~BG0cZuCZmX2e9iZt-ehCx-6ZC71VD0JPIF5KN2QIF4KUsRi51EOYW5em7HEUqUxb5EBRqYksmvK~lpqTIr57dBtl7diKx5X-meDEJcxKu9vnAkucp~l49KYlPOnq~hzbcja7zfUNxkkyDKCgIPXE8dErDEpc146qm49LZP63UuJzfeMrQ__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ');
   background-size: cover;      /* Make the image cover the whole area */
   background-position: center; /* Center the image */
   background-repeat: no-repeat;
@@ -78,15 +78,15 @@ section {
 
 /* Story Section Styles */
 .story {
-  background-color: #8BD1CB; /* Secondary Light Blue */
-  color: #222;
+  background-color: #FFC907; /* Secondary Light Blue */
+  color: #003366;
   text-align: center;
   padding: 30px 20px;
 }
 
 /* Add accent color to section headings */
 h2 {
-  color: #2E9DF7; /* Primary blue */
+  color: #003366; /* Primary blue */
   margin-top: 0;
   font-weight: bold;
 }
