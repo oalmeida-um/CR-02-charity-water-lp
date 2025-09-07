@@ -136,6 +136,11 @@ section {
   margin-bottom: 20px;
 }
 
+/* This class makes text white */
+.white-text {
+  color: #fff;
+}
+
 /* 
   Media Queries for Responsive Design
   Media queries help make your website look good on different screen sizes,
